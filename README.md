@@ -13,7 +13,7 @@ Blockchain Engineer | Security Researcher | Web3 | Cybersecurity | PhD
 🔗 [linkedin.com/in/nadinaoates](https://linkedin.com/in/nadinaoates)
 
 
-**Focus Areas**: Cybersecurity, Blockchain Security, Penetration Testing, Ethical Hacking
+**Focus Areas**: Cybersecurity, Blockchain Security, Penetration Testing, Ethical Hacking  
 **Certifications**: Pursuing Google Cybersecurity Professional Certificate, Security+
 
 ## Repository Contents
