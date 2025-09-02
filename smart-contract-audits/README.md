@@ -17,7 +17,7 @@ This folder contains a collection of smart contract audit reports focused on ide
 ## Author
 
 **Nadina (Oates) Zweifel**
-Blockchain Engineer | Security Researcher | Web3 | Cybersecurity | PhD
+Blockchain Engineer | Security Researcher | Web3 | Cybersecurity | PhD  
 🌐 [trashpirate.io](https://trashpirate.io)  
 ✖️ [x.com/0xTrashPirate](https://x.com/0xTrashPirate)  
 💻 [github.com/trashpirate](https://github.com/trashpirate)  
