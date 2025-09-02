@@ -4,7 +4,7 @@
 This folder contains a collection of incident report analyses focused on cybersecurity events and scenarios. Each report applies structured frameworks, such as the NIST Cybersecurity Framework, to evaluate incidents, identify risks, and propose mitigation and recovery strategies. The purpose is to document my ability to analyze cybersecurity incidents methodically and professionally.
 
 ## Contents
-- **[1-nist-incident-report.md](1-nist-incident-report.md)**
+- **[NIST CSF Incident Report](1-nist-incident-report.md)**
 
 
 ## Author
