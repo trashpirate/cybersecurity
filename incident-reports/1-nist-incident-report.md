@@ -44,8 +44,9 @@ By isolating and blocking ICMP traffic from malicious IP addresses, taking non-c
 ## Reflections/Notes
 *The CSF is used to improve on existing security posture after an incident occurs. It helps to gather and structure relevant information about the incident for future reference and can inform future security guidelines.*
 
+
 ## Author Information
-**Nadina (Oates) Zweifel**
+**Nadina (Oates) Zweifel**  
 Blockchain Engineer | Security Researcher | Web3 | Cybersecurity | PhD  
 🌐 [trashpirate.io](https://trashpirate.io)  
 ✖️ [x.com/0xTrashPirate](https://x.com/0xTrashPirate)  

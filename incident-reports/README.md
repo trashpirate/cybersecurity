@@ -9,7 +9,7 @@ This folder contains a collection of incident report analyses focused on cyberse
 
 ## Author
 
-**Nadina (Oates) Zweifel**
+**Nadina (Oates) Zweifel**  
 Blockchain Engineer | Security Researcher | Web3 | Cybersecurity | PhD  
 🌐 [trashpirate.io](https://trashpirate.io)  
 ✖️ [x.com/0xTrashPirate](https://x.com/0xTrashPirate)  
